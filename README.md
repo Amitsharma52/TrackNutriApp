@@ -1,6 +1,6 @@
-# 🍎 NutriPilot
+# 🍎 TrackNutri
 
-NutriPilot is a modern, premium SwiftUI application designed to make nutrition tracking simple, elegant, and insightful. Built with a focus on rich aesthetics, smooth animations, and a responsive glassmorphic UI, NutriPilot helps users achieve their weight goals through smart meal planning, active hydration tracking, and detailed calorie and macro analytics.
+TrackNutri is a modern, premium SwiftUI application designed to make nutrition tracking simple, elegant, and insightful. Built with a focus on rich aesthetics, smooth animations, and a responsive glassmorphic UI, TrackNutri helps users achieve their weight goals through smart meal planning, active hydration tracking, and detailed calorie and macro analytics.
 
 ---
 
@@ -76,11 +76,11 @@ NutriPilot is a modern, premium SwiftUI application designed to make nutrition t
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/NutriPilot.git
+   git clone https://github.com/yourusername/TrackNutri.git
    ```
 2. Open the project in Xcode:
    ```bash
-   open NutriPilot.xcodeproj
+   open TrackNutri.xcodeproj
    ```
 3. Select your target device (e.g., iPhone 15 simulator or your local iPhone).
 4. Run/Build the application:
